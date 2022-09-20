@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "G:/ESP32/ADS1256/ADS1256/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "G:/ESP32/ADS1256/ADS1256/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "G:/ESP32/ADS1256/ADS1256/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "G:/ESP32/ADS1256/ADS1256/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "G:/ESP32/ADS1256/ADS1256/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "G:/ESP32/ADS1256/ADS1256/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "G:/ESP32/ADS1256/ADS1256/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "G:/ESP32/ADS1256/ADS1256/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "G:/ESP32/ADS1256/ADS1256/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "G:/ESP32/ADS1256/ADS1256/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

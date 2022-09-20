@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+G:/ESP32/ADS1256/ADS1256/build/CMakeFiles/bootloader
+G:/ESP32/ADS1256/ADS1256/build/CMakeFiles/bootloader.rule
+G:/ESP32/ADS1256/ADS1256/build/CMakeFiles/bootloader-complete.rule
+G:/ESP32/ADS1256/ADS1256/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+G:/ESP32/ADS1256/ADS1256/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+G:/ESP32/ADS1256/ADS1256/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+G:/ESP32/ADS1256/ADS1256/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+G:/ESP32/ADS1256/ADS1256/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+G:/ESP32/ADS1256/ADS1256/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+G:/ESP32/ADS1256/ADS1256/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
